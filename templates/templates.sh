@@ -1,4 +1,4 @@
-source /c/xampp/htdocs/d4sign/source.bashrc
+source /c/xampp/htdocs/d4sign/env.bashrc
 
 curl --location --request POST \
     --url "https://sandbox.d4sign.com.br/api/v1/templates?tokenAPI=$TOKEN&cryptKey=$CRYPT_KEY" \
