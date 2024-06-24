@@ -1,6 +1,6 @@
 source /c/xampp/htdocs/d4sign/env.bashrc
 
-uuid_document=3c345d9e-f621-4268-aead-fcdcca364228
+uuid_document=3f04a65a-bb87-458d-85f6-5cae6fc73db8
 
 
 curl --request POST \
@@ -11,11 +11,11 @@ curl --request POST \
         "pins": 
         [
             { 
-                "document": "3c345d9e-f621-4268-aead-fcdcca364228",
-                "email" : "raphael.meireles@vetorian.com",
-                "page_height":1097,
-                "page_width": 790,
-                "page":11,
+                "document": "3f04a65a-bb87-458d-85f6-5cae6fc73db8",
+                "email" : "rafavfx1@gmail.com",
+                "page_height":297,
+                "page_width": 210,
+                "page":10,
                 "position_x":30,
                 "position_y":30,
                 "type":0
